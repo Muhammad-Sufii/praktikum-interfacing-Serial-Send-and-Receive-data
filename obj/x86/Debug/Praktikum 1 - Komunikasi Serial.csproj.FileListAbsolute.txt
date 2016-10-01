@@ -1,0 +1,16 @@
+C:\Users\mhs\AppData\Local\Temporary Projects\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mhs\AppData\Local\Temporary Projects\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum_1___Komunikasi_Serial.Form1.resources
+C:\Users\mhs\AppData\Local\Temporary Projects\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum_1___Komunikasi_Serial.Properties.Resources.resources
+C:\Users\mhs\AppData\Local\Temporary Projects\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mhs\AppData\Local\Temporary Projects\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\bin\Debug\Praktikum 1 - Komunikasi Serial.exe
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\bin\Debug\Praktikum 1 - Komunikasi Serial.pdb
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum_1___Komunikasi_Serial.Form1.resources
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum_1___Komunikasi_Serial.Properties.Resources.resources
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum 1 - Komunikasi Serial.exe
+C:\Users\mhs\Documents\Visual Studio 2010\Projects\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum 1 - Komunikasi Serial.pdb
+H:\New folder\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum 1 - Komunikasi Serial.exe
+H:\New folder\Praktikum 1 - Komunikasi Serial\Praktikum 1 - Komunikasi Serial\obj\x86\Debug\Praktikum 1 - Komunikasi Serial.pdb
